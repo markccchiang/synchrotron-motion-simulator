@@ -1,0 +1,17 @@
+scp * mark@ns.gtsgolf.com.tw:/home/mark/python_work/
+
+scp *.py mark@ns.gtsgolf.com.tw:/home/mark/python_work/
+
+nohup ./run-script.csh >& /dev/null &
+
+      Arial
+      Arial Italic
+      Arial Bold
+      Arial Bold Italic
+      Times Roman
+      Times Roman Italic
+      Times Roman Bold
+      Times Roman Bold Italic
+      Helvetica
+      Roman
+
